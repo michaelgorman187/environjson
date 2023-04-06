@@ -147,11 +147,32 @@
         "uuid": "88813313-e0ed-44e4-93dc-8af1b8d7e689"
     },
     {
-        "address": "regex:(https\:\/\/www\.carolenash\.com|https\:\/\/www\.swinton\.co.uk|https\:\/\/www\.insurance4carhire\.com|https\:\/\/www\.atlantagroup\.co.uk)"
+        "address": "https://www.carolenash.com/",
         "color": "F13C36",
         "name": "LIVE",
         "position": "3",
         "uuid": "80281cd0-20d1-45b2-b16d-450e6257ef05"
+    },
+    {
+        "address": "https://www.swinton.co.uk/",
+        "color": "F13C36",
+        "name": "LIVE",
+        "position": "3",
+        "uuid": "d55fd1ea-788f-4611-b01b-899814b9cb3e"
+    },
+    {
+        "address": "https://www.insurance4carhire.com/",
+        "color": "F13C36",
+        "name": "LIVE",
+        "position": "3",
+        "uuid": "90281e81-a5ea-4543-91a8-2f02e68dca34"
+    },
+    {
+        "address": "https://www.atlantagroup.co.uk/",
+        "color": "F13C36",
+        "name": "LIVE",
+        "position": "3",
+        "uuid": "f5188582-b472-4562-9e1f-a80561a679a6"
     },
     {
         "address": "https://www.carolenash.ie/",
