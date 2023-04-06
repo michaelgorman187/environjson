@@ -14,13 +14,6 @@
         "uuid": "88813313-e0ed-44e4-93dc-8af1b8d7e689"
     },
     {
-        "address": "https://build",
-        "color": "0AD15F",
-        "name": "BUILD",
-        "position": "3",
-        "uuid": "75ba7262-19e1-4fa9-bccb-e06fdc24d5ad"
-    },
-    {
         "address": "https://inte",
         "color": "0AD15F",
         "name": "INTE",
