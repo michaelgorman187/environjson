@@ -14,18 +14,18 @@
         "uuid": "88813313-e0ed-44e4-93dc-8af1b8d7e689"
     },
     {
-        "address": "https://inte",
-        "color": "0AD15F",
-        "name": "INTE",
-        "position": "3",
-        "uuid": "affa116d-e688-467b-bbb5-1bb58ee30037"
-    },
-    {
         "address": "https://inte2",
         "color": "0AD15F",
         "name": "INTE2",
         "position": "3",
         "uuid": "d7768f79-1966-4637-baef-5117f70daafd"
+    },
+    {
+        "address": "https://inte",
+        "color": "0AD15F",
+        "name": "INTE",
+        "position": "3",
+        "uuid": "affa116d-e688-467b-bbb5-1bb58ee30037"
     },
     {
         "address": "https://build",
