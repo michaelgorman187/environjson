@@ -7,6 +7,13 @@
         "uuid": "88813313-e0ed-44e4-93dc-8af1b8d7e689"
     },
     {
+        "address": "https://-ref",
+        "color": "0AD15F",
+        "name": "REF",
+        "position": "3",
+        "uuid": "666a810d-820d-49b2-85f0-944436cc6816"
+    },
+    {
         "address": "https://build-rcpsych-upgrade.appius.co.uk/",
         "color": "0AD15F",
         "name": "BUILD UPGRADE",
