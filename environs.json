@@ -496,4 +496,25 @@
         "position": "3",
         "uuid": "88813313-e0ed-44e4-93dc-8af1b8d7e689"
     }
+        {
+        "address": "https://as-s01d-uks-cm-04.azurewebsites.net/",
+        "color": "0AD15F",
+        "name": "DEV",
+        "position": "3",
+        "uuid": "88813313-e0ed-44e4-93dc-8af1b8d7e689"
+    }
+        {
+        "address": "https://as-s01u-uks-cm-04.azurewebsites.net/",
+        "color": "FFBF00",
+        "name": "STAGING",
+        "position": "3",
+        "uuid": "88813313-e0ed-44e4-93dc-8af1b8d7e689"
+    }
+            {
+        "address": "https://cm.kennedyslaw.com/",
+        "color": "F13C36",
+        "name": "LIVE",
+        "position": "3",
+        "uuid": "88813313-e0ed-44e4-93dc-8af1b8d7e689"
+    }
 ]
